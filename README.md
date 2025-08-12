@@ -25,7 +25,7 @@ A proposta do projeto é simular uma situação real de apoio à tomada de decis
 
    1. Verifique se o Power BI Desktop está instalado em sua máquina. Caso não esteja, pode instalá-lo por [aqui](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop);
 
-   2. Encontre o arquivo .pbix neste repositório (dashboardVendas.pbix);
+   2. Encontre o arquivo .pbix neste repositório (Mercado-acoes.pbix);
 
    3. Clique no arquivo supracitado e, em seguida, "View Raw" para realizar o download;
 
